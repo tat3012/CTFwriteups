@@ -1,8 +1,10 @@
 # LICENSE
 ![image](https://hackmd.io/_uploads/H1kM1ToK0.png)
 ta thấy rằng để có flag thì phải qua được 2 hàm `sub_1209` và `sub_1345` , src phải có 17 ký tự
+
 ![image](https://hackmd.io/_uploads/BJCOyaoFR.png)
 Tại `sub_1209`
+
 ![image](https://hackmd.io/_uploads/Hk3KyasYC.png)
 hàm `sub_1209` dùng để kiểm tra 8 ký tự đầu
 ## Script1:
@@ -51,6 +53,7 @@ print(s)
 ![image](https://hackmd.io/_uploads/rk7s-TjFC.png)
 
 ký tự giữa sẽ là '-'
+
 ![image](https://hackmd.io/_uploads/SyZAZaoKR.png)
 
 vì 8 ký tự đầu khi nhập tay sẽ bị lỗi format nên phải dùng pwntools
